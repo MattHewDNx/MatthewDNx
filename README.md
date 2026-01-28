@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Matthew
 
-I'm a full-stack developer from Indonesia, passionate about building clean, user-friendly applications that solve real-world problems. I am currently on a 4-month intensive mentorship to become a world-class software engineer.
 
 ---
 
